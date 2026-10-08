@@ -33,5 +33,5 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
 
-!()[<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6b82463e-19f8-4907-a465-6530bb21d521" />]
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6b82463e-19f8-4907-a465-6530bb21d521" />
 
