@@ -32,4 +32,7 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 3. Undo Change: Edit secret.txt, then run a command to revert it to its last committed state before saving.
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
-![](Data Science logo.jpg)
+
+<p align="center">
+  <img src="repo_files/DataSciEES_logo.jpg" width="200" height="200" />
+</p>
