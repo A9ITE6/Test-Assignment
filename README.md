@@ -1,14 +1,33 @@
 # Test-Assignment
 This is a test assignment for the Data Science in EES course.
 
-To complete this assignment please:
+To complete this assignment please do not use the website GUI unless specifically instructed - this activity is gettign you used to interfacing with Github through R studio:
 
-1. Add your name to this markdown readme file online including an informative commit.
-2. Clone the repository on your own computer.
-3. Add your name to the R script in the repository from your own computer and push that change to the repository using Git in RStudio.
-4. Add comments into the R script describing what each line does.
-5. Add a text file to the GitHub repository with your favourite colour in it using the online version of the repository.
-6. Add another text file to the GitHub repository with your favourite animal in it from your own computer and push that change to the repository using Git in RStudio.
-7. Add the course logo to your repository.
-8. Add the course logo to your readme file.
+1.Fork this repository to your own GitHub account.
+2.Clone the repository to your own computer using RStudio.
+3.Add your name to the README.md file online (via the GitHub website) and include an informative commit message. 
+4.Add your name to the R script on your computer, then push this change using Git in RStudio.
+5.Add comments into the R script describing what each line does, then push these changes.
+6.Edit .gitignore to exclude .Rproj.user files.  Your commit message must briefly explain why this file type should be ignored .
+7.Add a text file with your favourite colour to the root of the repository. 
+8.Add another text file with your favourite animal to a new folder in the repository.
+9.Add the course logo image file to your repository from your computer.
+10.Create and Knit an R Markdown as a HTML file with these components:
+Title: "My Submission"
+Author: 
+Output: 
+11.Content: A Level 2 header ## My Favourite Animal and a code chunk printing your animal's name.
+12.Push both the .Rmd and the generated .html files to your repository. (Reason: The file must exist on GitHub before you can link to it in the README.)
+13.Add a Level 2 header to your readme and list files you have added to the repo
+14.Embed the course logo in the root Readme using Markdown 
+15.Link your R Markdown report using Markdown 
 
+🚀 Stretch Goals: Terminal Challenge
+Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
+hint: you can use "git help" to open the terminal manual or "git help -a" to list allavailable commands
+
+1. Run a command to display the last 5 commits in a compact, one-line format.
+2. Create File: Create a file named secret.txt containing the word "Hidden" using only a terminal command.
+3. Undo Change: Edit secret.txt, then run a command to revert it to its last committed state before saving.
+4. Check Status: Run a command to display the difference between staged and unstaged changes.
+5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
