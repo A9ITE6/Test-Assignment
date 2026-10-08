@@ -34,5 +34,5 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
 
 <p align="center">
-  <img src="repo_files/DataSciEES_logo.jpg" width="200" height="200" />
+  <img src="<img width="762" height="761" alt="image" src="https://github.com/user-attachments/assets/d89aaae3-f015-49ef-bbc1-2d90f9a3848e" />
 </p>
