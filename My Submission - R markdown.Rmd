@@ -1,0 +1,19 @@
+---
+title: "My Submission"
+author:
+output:
+date: "2026-10-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Why version control is useful
+1. transfer versions of a piece of work reliably between project members
+2. keep a track of commit changes and different versions.
+3. Ensure different group members have a consistent and up to date version of a project
+
+```{r}
+1+1
+```
